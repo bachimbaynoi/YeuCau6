@@ -21,4 +21,5 @@ bạn.
 tìm các phương pháp để code tốt hơn, kiểm thử tốt hơn.
 10. Sự đơn giản là cần thiết – nghệ thuật tối đa hóa lượng công việc chưa hoàn thành: Tối ưu hóa công việc mình cần làm để linh hoạt, 
 để có thể tối ưu hóa công việc cần làm chúng ta phải cùng thảo luận để xác định các công việc cần thiết và mang lại giá trị.
-
+11. Nhóm tự tổ chức
+12. Thích ứng thường xuyên với sự thay đổi
