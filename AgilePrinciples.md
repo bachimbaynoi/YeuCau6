@@ -8,11 +8,14 @@ lý và các nhà đầu tư dự án vì những thông tin đó sẽ giúp h�
 những quyết định tiếp theo. Suy cho cùng, cái họ quan tâm nhất đó là sản phẩm 
 đang phát triển có hoạt động tốt không, do đó bạn phải chuẩn bị tinh thần để 
 chạy sản phẩm.
-
 8. Phát triển bền vững và duy trì được nhịp độ phát triển liên tục:
 	- Luôn ưu tiên phát triển bền vững và duy trì nhịp độ phát triển dự án. Đôi
 khi bạn cần phải làm thêm giờ cho kịp tiến độ dự án, thời gian làm việc đạt hiệu 
 quả cao nhất là khoảng 4-5 tiếng, bạn có thể làm thêm giờ nhưngvới cường độ làm 
 việc liên tục và bạn cảm thấy mệt mỏi thì đó là dấu hiệucho vấn đề về dự án của 
 bạn.
+9. Luôn quan tâm đến kỹ thuật và thiết kế để cải tiến sự linh hoạt: Tăng độ linh hoạt trong dự án, 
+tìm các phương pháp để code tốt hơn, kiểm thử tốt hơn.
+10. Sự đơn giản là cần thiết – nghệ thuật tối đa hóa lượng công việc chưa hoàn thành: Tối ưu hóa công việc mình cần làm để linh hoạt, 
+để có thể tối ưu hóa công việc cần làm chúng ta phải cùng thảo luận để xác định các công việc cần thiết và mang lại giá trị.
 
