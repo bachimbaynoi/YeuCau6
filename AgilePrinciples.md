@@ -2,6 +2,9 @@
 2. Giao phần mềm chạy được cho khách hàng một cách thường xuyên (tốt nhất là theo tuần hoặc theo tháng)
 3. Giao phần mềm chạy được cho khách hàng một cách thường xuyên (giao hàng tuần hơn là hàng tháng)
 4. Nhà kinh doanh và người phát triển phải cùng nhau làm việc hàng ngay trong suốt dự án
+5. Các dự án được xây dựng xung quanh những cá nhân có động lực. Cung cấp cho họ môi trường và sự hỗ 
+trợ cần thiết, và tin tưởng họ để hoàn thành công việc
+6. Trao đổi trực tiếp mặt đối mặt là phương pháp hiệu quả nhất để truyền đạt thông tin
 7. Phần mềm chạy được là thước đo chính của tiến độ:
 	- Thông tin về tiến độ của dự án rất quan trọng, đặc biệt là đối với Ban quản
 lý và các nhà đầu tư dự án vì những thông tin đó sẽ giúp họ có cơ sở để đưa ra 
