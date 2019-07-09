@@ -1,4 +1,7 @@
-
+1. Thỏa mãn yêu cầu của khách hàng thông qua việc giao hàng sớm nhất có thể
+2. Giao phần mềm chạy được cho khách hàng một cách thường xuyên (tốt nhất là theo tuần hoặc theo tháng)
+3. Giao phần mềm chạy được cho khách hàng một cách thường xuyên (giao hàng tuần hơn là hàng tháng)
+4. Nhà kinh doanh và người phát triển phải cùng nhau làm việc hàng ngay trong suốt dự án
 7. Phần mềm chạy được là thước đo chính của tiến độ:
 	- Thông tin về tiến độ của dự án rất quan trọng, đặc biệt là đối với Ban quản
 lý và các nhà đầu tư dự án vì những thông tin đó sẽ giúp họ có cơ sở để đưa ra 
@@ -12,3 +15,4 @@ khi bạn cần phải làm thêm giờ cho kịp tiến độ dự án, thời 
 quả cao nhất là khoảng 4-5 tiếng, bạn có thể làm thêm giờ nhưngvới cường độ làm 
 việc liên tục và bạn cảm thấy mệt mỏi thì đó là dấu hiệucho vấn đề về dự án của 
 bạn.
+
